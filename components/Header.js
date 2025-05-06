@@ -26,6 +26,7 @@ const StyledNav = styled.nav`
   `}
   gap: 15px;
   position: fixed;
+   top: 70px;
   top: 0;
   bottom: 0;
   left: 0;
